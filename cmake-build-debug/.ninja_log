@@ -1,0 +1,7 @@
+# ninja log v5
+3080	3707	6930664961647800	CPP_Programming_master.exe	e78afc1a5b0de604
+28	769	6930666671361379	build.ninja	e1c402dcadb7ce39
+1	3079	6930664955484425	CMakeFiles/CPP_Programming_master.dir/SortingAlgorithms/heap_sort.cpp.obj	d9113a838cccecca
+6	426	6930666671361379	build.ninja	c9c84dd7dbe1e477
+0	1112	6930666683909899	CMakeFiles/CPP_Programming_master.dir/GraphAlgorithm/tree_or_not.cpp.obj	98d8888a285e7e2b
+1114	1348	6930666686192261	CPP_Programming_master.exe	4c3408fb440cc8e5
